@@ -1,5 +1,5 @@
 import { NextPage } from "next"
-import { ITodo } from "../types/todo"
+import { ITodo } from "../../types/ITodo"
 import { Card } from "../../components/ui/card"
 import { Badge } from "../../components/ui/badge"
 import Navigation from "../../components/navigation"
